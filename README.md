@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy jrivalta
 
-<!--
-**jrivalta/jrivalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado de la recuperación de sistemas embebidos, automatización doméstica y diseño de redes escalables.  
+Aquí encontrarás mis proyectos técnicos, documentación paso a paso, y rescates legendarios como el del Netgear WNR2000v2.
 
-Here are some ideas to get you started:
+## 🔧 Áreas de interés
+- UART, TFTP y recuperación de firmware
+- IoT, redes redundantes y automatización con Home Assistant
+- Documentación técnica y videos educativos en YouTube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- [WNR2000v2 Recovery](https://github.com/tuusuario/WNR2000v2-recovery): reviviendo routers olvidados
+
+🛠️ ¡Explora, aprende, y sígueme para más contenido técnico!
